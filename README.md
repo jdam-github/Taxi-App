@@ -43,7 +43,7 @@ Kudos to [Dibbendo Pranto](https://dribbble.com/Dibbendopranto) for this design.
 We love contributors. Looking forward to as many as possible.
 App may still have issues and bugs that may have a quick fix that we missed while development.
 
-### Developer
+### Developer, JDAM FORKED THE FROM SHASHANK
 
 We are a team of digital nomads who believe in open-source development and free-for-all products.
 We welcome anyone who is genuine and interested in developing great product that solve real world problems.
